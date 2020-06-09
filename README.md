@@ -3,9 +3,6 @@ Je vais te patcher mon enfant!
 Modification supplémentaire pour avoir un deuxième commit.
 
 
-Pour changer votre mot de passe DAS:
-	- Veuillez vous connecter au portail DAS SelfService
-
 	- Dans le Menu 'Self service' choisir 'Change password'
 	- Veuillez remplir le formulaire en complétant l’ancien mot de passe puis en saisissant deux fois votre nouveau mot de passe
 	- Assurez-vous que le nouveau mot de passe est conforme à la politique de sécurité Atos
